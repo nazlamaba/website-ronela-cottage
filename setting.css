@@ -1,0 +1,31 @@
+.banner {
+    background: url("image/bg.jpg")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 25%;
+    padding-bottom: 15%;
+    color: rgb(255, 62, 62);
+  }
+  .lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 200px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color:#0d6efd;
+  }
+  .lingkaran i {
+    position: relative;
+    top: 30px;
+  }
+  
+  .crop-img {
+    object-fit: cover;
+  }
+  
+  .tim img {
+    width: 250px;
+    border: 10px solid #cccccc;
+  }  
+  
